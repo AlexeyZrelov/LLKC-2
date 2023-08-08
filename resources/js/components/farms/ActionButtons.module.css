@@ -1,0 +1,8 @@
+.actions {
+    color: #0a53be;
+}
+
+.actions:hover {
+    color: #0dcaf0;
+    cursor: pointer;
+}
